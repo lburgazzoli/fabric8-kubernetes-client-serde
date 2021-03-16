@@ -1,0 +1,1 @@
+# fabric8-kubernetes-client-serde
